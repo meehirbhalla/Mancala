@@ -1,2 +1,2 @@
 # Mancala
-Python rendition of Mancala
+Python rendition of Mancala 🐍
